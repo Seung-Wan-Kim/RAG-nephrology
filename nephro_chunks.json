@@ -1,0 +1,10 @@
+[
+  "# Nephrology Disease Knowledge Base",
+  "## 1. CKD (Chronic Kidney Disease)\n\n### 진단 기준\n- eGFR < 60 mL/min/1.73m² for ≥ 3 months\n- 또는 신장 손상 소견 (예: 단백뇨, 조직학적 이상 등)\n\n### 검사 항목\n- Creatinine, eGFR, BUN, Albumin, UPCR\n\n### 설명\nCKD는 신장의 기능이 점진적으로 저하되는 질환으로, 당뇨병, 고혈압 등과 관련이 깊습니다. 조기 진단과 관리는 예후에 중요합니다.",
+  "## 2. AKI (Acute Kidney Injury)\n\n### 진단 기준\n- 48시간 내 Cr ≥ 0.3 mg/dL 증가 또는\n- 기준 대비 1.5배 이상 상승 (7일 이내)\n- 또는 소변량 < 0.5 mL/kg/h (6시간 이상)\n\n### 검사 항목\n- Creatinine, 소변량, BUN\n\n### 설명\nAKI는 급성으로 신장 기능이 저하되는 상태로, 혈류 감소, 독성, 폐쇄성 원인 등이 관련됩니다.",
+  "## 3. Nephrotic Syndrome\n\n### 진단 기준\n- 단백뇨 > 3.5 g/day\n- 혈청 Albumin < 3.0 g/dL\n- 부종 및 고지질혈증\n\n### 검사 항목\n- UPCR, Albumin, Cholesterol, Cr\n\n### 설명\n사구체 손상으로 인해 단백질이 과도하게 소변으로 배출되는 질환입니다. 원인 확인을 위한 조직검사 필요할 수 있습니다.",
+  "## 4. IgA Nephropathy\n\n### 진단 기준\n- IgA 침착이 사구체에서 확인됨 (조직검사)\n- 혈뇨 ± 단백뇨 동반\n\n### 검사 항목\n- 혈뇨, 단백뇨, eGFR, 조직검사\n\n### 설명\n가장 흔한 1차 사구체신염입니다. 예후는 다양하며, 단백뇨 수준이 중요한 예후인자입니다.",
+  "## 5. Diabetic Nephropathy\n\n### 진단 기준\n- 당뇨병 병력 + 지속적 단백뇨 (≥ 300 mg/day 또는 A3 이상)\n- 점진적 eGFR 감소\n\n### 검사 항목\n- HbA1c, UPCR, eGFR, Cr\n\n### 설명\n당뇨병의 미세혈관 합병증으로 신장의 모세혈관이 손상되며, 조기 발견이 중요합니다.",
+  "## 6. Lupus Nephritis\n\n### 진단 기준\n- SLE 진단 + 신장 침범 (단백뇨, 혈뇨, Cr 증가 등)\n- Lupus nephritis 병리학적 분류 (ISN/RPS)\n\n### 검사 항목\n- ANA, dsDNA, C3/C4, Cr, 단백뇨\n\n### 설명\n전신 홍반성 루푸스에 의한 신장 침범이며, 치료에 면역억제제 사용이 필요합니다.",
+  "## 7. Polycystic Kidney Disease (PKD)\n\n### 진단 기준\n- 다낭성 신 구조 (초음파 또는 영상학적 소견)\n- 가족력 고려\n\n### 검사 항목\n- 영상검사 (CT, MRI), Cr, eGFR\n\n### 설명\n유전 질환으로, 신장에 다수의 낭종이 생기며 점진적 기능 저하를 유발합니다. 고혈압 관리가 중요합니다."
+]

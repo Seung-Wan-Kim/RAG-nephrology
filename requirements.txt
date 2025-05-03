@@ -1,0 +1,7 @@
+streamlit
+pillow
+pytesseract
+pdf2image
+python-docx
+sentence-transformers
+faiss-cpu
