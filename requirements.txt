@@ -5,3 +5,4 @@ pdf2image
 python-docx
 sentence-transformers
 faiss-cpu
+google-cloud-vision
