@@ -1,0 +1,22 @@
+[
+  {
+    "text": "CKD는 3개월 이상 지속되는 신기능 감소로 정의되며, eGFR < 60 또는 단백뇨 ≥ 30mg/dL 기준으로 진단합니다.",
+    "source": "KDIGO 2022"
+  },
+  {
+    "text": "AKI는 48시간 내에 Creatinine이 0.3mg/dL 이상 증가하거나, 1.5배 이상 상승한 경우를 의미합니다.",
+    "source": "KDIGO 2021"
+  },
+  {
+    "text": "Nephrotic Syndrome은 하루 3.5g 이상의 단백뇨와 저알부민혈증, 부종이 특징입니다.",
+    "source": "NEJM Review 2020"
+  },
+  {
+    "text": "Glomerulonephritis는 혈뇨, 단백뇨, 고혈압, 신기능 저하로 나타날 수 있는 사구체염입니다.",
+    "source": "Oxford Nephrology Textbook"
+  },
+  {
+    "text": "Polycystic Kidney Disease는 양측 신장에 낭종이 다수 존재하며, 점진적인 신기능 저하를 초래할 수 있습니다.",
+    "source": "UpToDate 2021"
+  }
+]
