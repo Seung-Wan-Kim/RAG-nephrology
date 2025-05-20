@@ -76,7 +76,7 @@ def run_rag_from_input(eGFR, creatinine, albumin, proteinuria):
     question_embedding = model.encode([user_question])
     index = faiss.read_index("nephro_faiss.index")
 
-    with open("nephro_chunks_full.json", "r", encoding="utf-8") as f:
+    with open("nephro_chunks.json", "r", encoding="utf-8") as f:
         chunks = json.load(f)
 
     D, I = index.search(question_embedding, k=2)
@@ -135,7 +135,7 @@ if user_question:
     question_embedding = model.encode([user_question])
     index = faiss.read_index("nephro_faiss.index")
 
-    with open("nephro_chunks_full.json", "r", encoding="utf-8") as f:
+    with open("nephro_chunks.json", "r", encoding="utf-8") as f:
         chunks = json.load(f)
 
     D, I = index.search(question_embedding, k=2)
